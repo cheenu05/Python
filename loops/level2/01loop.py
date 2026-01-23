@@ -1,7 +1,7 @@
 # 6️⃣ Find the factorial of a number using a loop.
 
 print("Find the factorial of a number")
-number = int(input("enter the number: 3"))
+number = int(input("enter the number: "))
 
 total = 1
 
