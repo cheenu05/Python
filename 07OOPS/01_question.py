@@ -1,4 +1,8 @@
-# ✅ Q3: Method Overriding (Polymorphism 🔥)
+# inheritance in python 
+# Parent: User
+# Child: Admin
+# Method: login()
+# Admin ka login different message de
 
 class Parent:
     def __init__(self , name , lastname):
